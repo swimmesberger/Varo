@@ -1,4 +1,4 @@
-google_analytics_id: Test
+google_analytics_id: UA-48289017-2
 
 include:
   - .htaccess
