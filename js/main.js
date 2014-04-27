@@ -1,12 +1,10 @@
 $(function(){
 	var genURL = function(videos) {
-	  var str = window.location.pathname;
-	  var n = str.lastIndexOf('/');
-	  var result = str.substring(n + 1);
+	  
 	  if (videos == null || !videos.length || videos.length <= 0) {
 		return;
 	  }
-
+	  var result = "http://thedeath.github.io/Multitube/";
 	  return result + "?" + jQuery.param({ videos: videos });
 	};
 	
