@@ -1441,12 +1441,12 @@
             "member": [
                 {
                     "name": "PorkchopMedia",
-                    "url": "POCHMedia"
+                    "url": "POCHMedia",
                     "dead": true
                 }
             ],
             "parts": [
-				{
+                {
                     "name": "#12",
                     "ids": [
                         "flGENe5rJEA"
