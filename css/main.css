@@ -22,6 +22,10 @@ body{
 	background-color: transparent;
 }
 
+.jumbotron img{
+	display: inline;
+}
+
 .teamSeperator{
 	margin-top: 60px;
 	margin-bottom: 60px;
